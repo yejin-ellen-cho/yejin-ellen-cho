@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Rubo-1215/Rubo-1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🫅🏻 자기소개
+- 데이터 분석에 관심이 많습니다
+- 현재 Python을 공부하고 있습니다
+- 꾸준히 성장하는 개발자 되기
 
-Here are some ideas to get you started:
+## 기술 스택
+- Python
+- Pandas
+- SQL
+- Tablue
+- Numpy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트
+|프로젝트 명| 설명| 링크|
+|--|--|--|
+|미션 12|머신러닝|url|
+
+## 연락처 (이메일 주소)
